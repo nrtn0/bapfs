@@ -1,4 +1,4 @@
-// swift-tools-version:5.2
+// swift-tools-version:5.6
 
 import PackageDescription
 
@@ -11,7 +11,8 @@ let package = Package(
         )
     ],
     dependencies: [
-        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", from: "0.6.0")
+	    // 0.9.0 introduces concurrency, which causes our generation to fail.
+        .package(name: "Publish", url: "https://github.com/johnsundell/publish.git", branch: "0.8.0")
     ],
     targets: [
         .target(

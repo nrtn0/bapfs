@@ -7,7 +7,7 @@ sass --watch Sources/Bapfs/Theme/smacss/styles.scss:Resources/styles.css --style
 
 To run locally on localhost:8000, cd into /bapfs and run:
 ```
-publish run
+swift run
 ```
 
 To make changes, build in xcode or your swift IDE of choice.
