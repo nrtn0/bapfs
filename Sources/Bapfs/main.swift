@@ -54,12 +54,12 @@ return .socialImageLink(url)
 struct Bapfs: Website {
     enum SectionID: String, WebsiteSectionID {
         // sections
-        case games
+//        case games
 //        case conventions
         case new_players
-        case resources
-        case news
-        case contact
+//        case resources
+//        case news
+//        case contact
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
@@ -73,7 +73,7 @@ struct Bapfs: Website {
     var imagePath: Path? { "/images/dragon_og.jpg" }
 }
 
-// Add all markdown, copy compiled css to Output folder, generate webdite.
+// Add all markdown, copy compiled css to Output folder, generate website.
 try Bapfs().publish(using: [
     .addMarkdownFiles(),
     .copyResources(),

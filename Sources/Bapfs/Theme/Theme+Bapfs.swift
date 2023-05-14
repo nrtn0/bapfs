@@ -35,17 +35,7 @@ private struct BapfsHTMLFactory<Site: Website>: HTMLFactory {
                         .article(.class("span12 post"),
                             .contentBody(index.body)
                          ) // article
-                    ), // section.section_wrapper
-                    .article(
-                        .h2("Recent Articles")
-                    ),
-                    .itemList(
-                        for: context.allItems(
-                            sortedBy: \.date,
-                            order: .descending
-                        ),
-                        on: context.site
-                    ) // itemlist
+                    ) // section.section_wrapper
                 ), // div.wrapper
                 .footer(for: context.site)
             ) // body
@@ -397,29 +387,16 @@ private extension Node where Context : HTML.BodyContext { static func wrapper(_ 
         return .footer(
             .section(.class("section_wrapper"),
                 .article(.class("span12 mailing_list_signup"),
-                     .h5("Join our Communities:"),
+                     .h5("Join our Community:"),
                      .p(.class("social-link"),
                          .a(
                             .href("https://discord.gg/Qj753NEXJm"),
                             .text("Discord")
                          ) // a
-                     ), // p
-                     .p(.class("social-link last"),
-                         .a(
-                            .href("https://www.facebook.com/groups/OaktownPathfinderSociety"),
-                            .text("Facebook")
-                         ) // a
                      ) // p
                 ),
                 .article(.class("span12 mailing_list_signup"),
-                    .h5("Join Our Mailing List:"),
-                    .a(.class("button"),
-                        .href("http://eepurl.com/gXlnpf"),
-                        .text("Sign up on Mail Chimp")
-                    ) // a
-                ),
-                .article(.class("span12 mailing_list_signup"),
-                    .h5("@ 2021 San Francisco Organized Play"),
+                    .h5("@ 2023 Bay Area Pathfinder Organized Play"),
                     .p(
                         .class("footer-legal"),
                         .text("This promotional notice uses trademarks and/or copyrights owned by Paizo Publishing, LLC, which are under Paizo's community use policy. We are expressly prohibited from charging you to use or access this content. This promotional notice is not published, endorsed, or specifically approved by Paizo Publishing. For more information about Paizo's Community Use Policy, please visit paizo.com/ paizo/ about/ communityuse. For more information about Paizo Publishing and Paizo Products, please visit paizo.com.")

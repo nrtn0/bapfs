@@ -15,7 +15,7 @@ Really… that's all you need. You can walk into a game and play a pregenerated 
 
 ### What are These Games Even?
 
-We play three main games: [Pathfinder Second Edition](https://paizo.com/pathfinder) is the newer one and is a high fantasy setting full of swords and sorcery. [Starfinder](https://paizo.com/starfinder) is the science fantasy and space opera side of things. Pathfinder First Editino is the game Paizo published for a decade; it still has a vibrant collecive of die-hard players in our area.  We have curated some quick links to learn more:
+We play three main games: [Pathfinder Second Edition](https://paizo.com/pathfinder) is the newer one and is a high fantasy setting full of swords and sorcery. [Starfinder](https://paizo.com/starfinder) is the science fantasy and space opera side of things. Pathfinder First Edition is the game Paizo published for a decade; it still has a vibrant collecive of die-hard players in our area.  We have curated some quick links to learn more:
 
 ##### Pathfinder Second Edition
 
@@ -28,7 +28,7 @@ We play three main games: [Pathfinder Second Edition](https://paizo.com/pathfind
 - [Chronicle 0](https://www.organizedplayfoundation.org/Lorespire/tiki-download_file.php?fileId=4)
 - [Character Creation](https://www.organizedplayfoundation.org/Lorespire/sfsguide._.Character-Creation)
 
-##### Pathfiner 1e
+##### Pathfinder 1e
 
 - [Chronicle 0](https://paizo.com/include/WelcomeToPathfinder.zip)
 
@@ -36,36 +36,17 @@ We play three main games: [Pathfinder Second Edition](https://paizo.com/pathfind
 
 Every player should eventually read the guide for their system, cover to cover. 
 
-- [Second edition Roleplating Guide](https://organizedplayfoundation.org/Lorespire/Pathfinder-Society-(Second-Edition)-Guide-to-Organized-Play)
+- [Second edition Roleplaying Guide](https://organizedplayfoundation.org/Lorespire/Pathfinder-Society-(Second-Edition)-Guide-to-Organized-Play)
 - [Starfinder Guide](https://organizedplayfoundation.org/Lorespire/Starfinder-Society-Guide-to-Organized-Play)
 - [First edition Roleplaying Guide](https://paizo.com/products/btpy84k4/discuss&page=5?Pathfinder-Society-Roleplaying-Guild-Guide)
 
-### Community Guidelines
+Community guides for in-play and online:
 
-We follow the policies which govern Paizo Organized Play:
+- [Doug Hahn's Unofficial Organized Play Guide](https://doughahn.github.io/unofficial-opf-guides/organized-play/org-play/)
+- [Online Gaming: Virtual Table Tops](https://doughahn.github.io/unofficial-opf-guides/online-gaming/vtts-overview/)
 
-> Treat each other with respect and follow common sense rules for public behavior, personal interaction, basic courtesy, personal hygiene, and respect for people's persons and property. Harassment, bullying, and related inappropriate behavior will not be tolerated.
+Archives of Nethys (Online rules reference)
 
-The nature of Organized Play means that you may not know everyone at the table, so play it safe when dealing with topics or themes that may make others uncomfortable. You are responsible for PC’s actions; "that's what my character would do" is not an excuse for inappropriate behavior!
-
-
-##### Player Guidelines
-
-- For Character Creation Guidelines, refer to your Game System’s Roleplaying Guild Guide.
-- Only Paizo-made products are allowed for character creation.
-- See the Additional Resources page on the Paizo website for which Paizo products are legal for use for Pathfinder.
-- Organized Play characters cannot be of evil alignment.
-- Organized Play characters cannot intentionally  harm other PCs (e.g. casting area of effect spells that include a teammate) without verbal permission. 
-- While most Paizo-made products are allowed for use in Organized Play, a player must purchase a legal copy (either physical or pdf) of any product aside from the Core Rulebook, the Pathfinder/Starfinder Society Roleplaying Guild Guides, and ‘Character Traits Web Enhancements’ pdf. Referencing the PRD or Hero Lab does not count as having a legal copy of the required material. See the Guide(s) to Organized Play for further details.  
-- Although Organized Play is family-friendly, children under 13 must have supervision at the table. 
-- Some scenarios may contain mature themes; check with the GM if you are unsure of the suitability of a scenario.
-- If something in the scenario makes you uncomfortable, don’t hesitate let the GM know and they will try to tone that part of the scenario down.
-- Player knowledge and character knowledge must be kept separate. If you cannot abide by this, the GM may ask you to leave the table.
-- If your character has issues/errors/illegal items that cannot be corrected in less than 5 minutes during a game, you will be given a pre-gen for that game.
-- If your character has a unique ability, let the GM know beforehand, preferably with enough time for them to read the source material before the game begins.
-- Any player caught intentionally cheating will be given a warning.  Recurrences will result in suspension or permanent ban.
-- All gaming areas are to be cleaned after the game. Please clean up after yourself and respect the venue.
-- If you have to cancel, please withdraw your signup on Warhorn. This helps the event planners, and your fellow players (some of whom may be on a wait list!) If you’re canceling at the last minute, call the store to let them know. 
-- All games must end 15 minutes before closing to allow time for cleanup and paperwork.
-
-
+- [Pathfinder 1e](https://www.aonprd.com/)
+- [Pathfinder 2e](https://2e.aonprd.com/)
+- [Starfinder](https://aonsrd.com/)
