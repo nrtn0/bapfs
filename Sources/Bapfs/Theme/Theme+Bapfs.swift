@@ -26,14 +26,22 @@ private struct BapfsHTMLFactory<Site: Website>: HTMLFactory {
                          .article(
                             .h2("Welcome to Org Play!"),
                             .a(.class("base_button"),
-                               .href("/games/"),
-                               .text("Find a Game")
+                               .href("#gaming-in-the-bay-area"),
+                               .text("Find a Game"),
+							   .id("gaming-in-the-bay-area")
                             ) // a.base_button
                         )
                     ), // section#home_hero
                     .section(.class("section_wrapper"),
                         .article(.class("span12 post"),
-                            .contentBody(index.body)
+                            .contentBody(index.body),
+							.a(.class("base button"),
+							  .href("https://goo.gl/maps/6ttECRnbSwaxryS76"),
+							  .img(
+								.src("/images/bay-area-stores-map.png"),
+								.alt("A Map Showing the Bay Area Stores")
+							  )
+							) // a.base_button
                          ) // article
                     ) // section.section_wrapper
                 ), // div.wrapper

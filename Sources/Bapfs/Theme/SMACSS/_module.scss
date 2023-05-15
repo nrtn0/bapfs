@@ -231,6 +231,22 @@ article ol {
 article ul {
   list-style:disc;
 }
+article table {
+  border: 1px solid;
+  width: 100%;
+}
+article th {
+  @extend .sans;
+  @include type-setting(body); 
+  padding:.5rem;
+  font-weight:bold;
+  text-align:left;
+}
+article td {
+  @extend .sans;
+  @include type-setting(body); 
+  padding:.5rem;
+}
 
 code {
   background-color: #f8f8f8;

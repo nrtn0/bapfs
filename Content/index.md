@@ -5,15 +5,16 @@ description: We organize Pathfinder and Starfinder Society tabletop events onlin
 
 <a class="callout_button" href="/new_players/"><h5>New Players start here</h5></a>
 
-<a id="my-header"></a>
 ## Gaming in the Bay Area
 
 We organize [Pathfinder and Starfinder Society](https://paizo.com/organizedplay) tabletop events online and in person throughout the Bay Area. New players are always welcome! 
 
 Our community is diverse and welcoming. Hop onto our [Discord group](https://discord.gg/Qj753NEXJm) and say hello! Reserve your spot in games via Warhorn.
 
-| Region | Warhorn  | Venture Officers |
-| ------ | -------- | ---------------- |
-| Row 1  | Cell 1   | dfdf             |
-| Row 2  | Cell 2   | dfefef           |
+| Warhorn | Locations |
+| ------ | --------- |
+| [Silicon Valley](https://warhorn.net/events/silicon-valley-pfs-sfs-acg)  | SVOP Online and Game Kastle (Santa Clara) |
+| [San Francisco](https://warhorn.net/events/pathfinder-pfs-sfs) | SF Online and Game Post (SF)|
+| [SF East/North Bay](https://warhorn.net/events/sf-bay-ne)   | Victory Point Cafe (Berkeley); It's Your Move (Oakland); Black Diamond Games (Concord) |
 
+### Store Locations
