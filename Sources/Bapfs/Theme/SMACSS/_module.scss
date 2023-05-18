@@ -320,7 +320,6 @@ p a,
 .section_wrapper ul a {
   @include type-setting(body);
   display:inline-block;
-  color:$blue;
   text-decoration:none;
   &:after {
       display:block;
