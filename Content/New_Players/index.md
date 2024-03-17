@@ -27,16 +27,18 @@ We have curated some links below to learn more about each game.
 
 ##### Pathfinder Second Edition
 
-- [Second Edition Roleplaying Guide](https://organizedplayfoundation.org/Lorespire/Pathfinder-Society-%28Second-Edition%29-Guide-to-Organized-Play)
-- [Chronicle 0](/images/PFS2E_chronicle0.pdf)
-- [Cheat Sheet](/images/cheat-sheet.pdf)
-- [Character Creation](https://www.organizedplayfoundation.org/Lorespire/pfs2guide._.Character-Creation)
+- [Second Edition Roleplaying Guide](https://lorespire.paizo.com/tiki-index.php?page=Pathfinder-Society-%28Second-Edition%29-Guide-to-Organized-Play)
+- [Character Creation](https://lorespire.paizo.com/tiki-index.php?page=pfs2guide._.Character-Creation#Character_Creation_Guidelines)
+- [Filling out a Chronicle](https://lorespire.paizo.com/tiki-index.php?page=pfs2guide._.Game-Master-Basics#Filling_Out_a_Chronicle)
+- [Pathfinder Provisions](https://lorespire.paizo.com/tiki-index.php?page=pfs2guide._.Pathfinder-Provisions)
+- [Action Cheat Sheet](/images/cheat-sheet.pdf)
 
 ##### Starfinder
 
-- [Starfinder Guide](https://organizedplayfoundation.org/Lorespire/Starfinder-Society-Guide-to-Organized-Play)
-- [Chronicle 0](https://www.organizedplayfoundation.org/Lorespire/tiki-download_file.php?fileId=4)
-- [Character Creation](https://www.organizedplayfoundation.org/Lorespire/sfsguide._.Character-Creation)
+- [Starfinder Guide](https://lorespire.paizo.com/tiki-index.php?page=sfsguide._.Full-Guide)
+- [Character Creation](https://lorespire.paizo.com/tiki-index.php?page=Starfinder-Society-Guide-to-Organized-Play#Character_Creation)
+- [Filling out a Chronicle](https://lorespire.paizo.com/tiki-index.php?page=Starfinder-Society-Guide-to-Organized-Play#Filling_Out_a_Chronicle)
+- [Download the Welcome to SFS Boon](https://lorespire.paizo.com/tiki-download_file.php?fileId=11)
 
 ##### Pathfinder 1e
 

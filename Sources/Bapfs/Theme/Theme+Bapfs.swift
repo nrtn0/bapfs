@@ -38,7 +38,7 @@ private struct BapfsHTMLFactory<Site: Website>: HTMLFactory {
 							.a(.class("base button"),
 							  .href("https://goo.gl/maps/6ttECRnbSwaxryS76"),
 							  .img(
-								.src("/images/bay-area-stores-map.png"),
+								.src("/images/bay-area-stores-map.jpg"),
 								.alt("A Map Showing the Bay Area Stores")
 							  )
 							) // a.base_button
