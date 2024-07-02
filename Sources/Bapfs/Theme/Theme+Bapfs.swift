@@ -34,14 +34,7 @@ private struct BapfsHTMLFactory<Site: Website>: HTMLFactory {
                     ), // section#home_hero
                     .section(.class("section_wrapper"),
                         .article(.class("span12 post"),
-                            .contentBody(index.body),
-							.a(.class("base button"),
-							  .href("https://goo.gl/maps/6ttECRnbSwaxryS76"),
-							  .img(
-								.src("/images/bay-area-stores-map.jpg"),
-								.alt("A Map Showing the Bay Area Stores")
-							  )
-							) // a.base_button
+                            .contentBody(index.body)
                          ) // article
                     ) // section.section_wrapper
                 ), // div.wrapper
