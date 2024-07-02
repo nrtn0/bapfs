@@ -16,17 +16,8 @@ Our community is diverse and welcoming. Hop onto our [Discord group](https://dis
 | [Silicon Valley](https://warhorn.net/events/silicon-valley-pfs-sfs-acg)  | SVOP Online and [Game Kastle (Santa Clara)](https://gamekastle.com/pages/santa-clara-ca) |
 | [San Francisco](https://warhorn.net/events/pathfinder-pfs-sfs) | SF Online, [Game Post (SF)](https://sfgamepost.com/), [Game Parlour](https://www.thegameparlour.com/)|
 | [SF East/North Bay](https://warhorn.net/events/sf-bay-ne)   | [Victory Point Cafe (Berkeley)](https://www.victorypointcafe.com/), [It's Your Move (Oakland)](https://www.itsyourmoveoakland.com/), [Black Diamond Games (Concord)](https://blackdiamondgames.com/) |
-| **New!** TBD | [GAME Santa Cruz](https://www.gamesantacruz.com/) |
-| **New!** TBD | [Gamelandia (Palo Alto)](https://gamelandia.fun/) |
-
-### Free RPG Day 2024 (June 22)
-
-Drop-in to your local game store for [Free RPG Day](https://freerpgday.com/) and play as poppets in **The Great Toy Heist**!
-
-- GAME Santa Cruz (10am Quest 16: Winter Queen's Dollhouse, 2pm The Great Toy Heist)
-- Gamelandia (11am [signup](https://events.timely.fun/umywgdds/event/pathfinder-society-one-shots-free-rpg-day-13?instance_id=20240622110000&r=https://gamelandia.fun/play/#event=pathfinder-society-one-shots-free-rpg-day-13;instance=20240622110000))
-- Game Post (SF)
-- Black Diamond Games
+| [Game Santa Cruz PFS](https://warhorn.net/events/game-santa-cruz-pathfinder-society) | [GAME Santa Cruz](https://www.gamesantacruz.com/) |
+| [Gamelandia 2024](https://warhorn.net/events/gamelandia-2024) | [Gamelandia (Palo Alto)](https://gamelandia.fun/) |
 
 ### Store Locations
 
