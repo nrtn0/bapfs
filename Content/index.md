@@ -28,7 +28,7 @@ Our community is diverse and welcoming. Hop onto our [Discord group](https://dis
 | Convention | Warhorn | Event Info |
 | ---------- | ------- | ---------- |
 | [East Bay Board Game Convention](https://tabletop.events/conventions/east-bay-board-game-convention) | [EBBG Con 2024](https://warhorn.net/events/ebbg-con-2024) | July 5-7, 2024 at the Oakland Marriott City Center |
-| [Pacificon Game Expo](https://www.pacificongameexpo.com/) | TBD | Labor Day Weekend (Aug 30 - Sept 2, 2024) at Santa Clara Marriot Hotel |
+| [Pacificon Game Expo](https://www.pacificongameexpo.com/) | [Pacificon 2024](https://warhorn.net/events/pacificon-game-expo-pathfinder-starfinder-society) | Labor Day Weekend (Aug 30 - Sept 2, 2024) at Santa Clara Marriot Hotel |
 | [DundraCon](https://www.dundracon.com/) | TBD | February 2025 at Santa Clara Marriot Hotel |
 | [PaizoCon@KublaCon](https://kublacon.com/) | TBD | Memorial Weekend (May 23-26, 2025) in Burlingame Hyatt Regency |
 
