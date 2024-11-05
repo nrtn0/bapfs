@@ -388,16 +388,15 @@ private extension Node where Context : HTML.BodyContext { static func wrapper(_ 
         return .footer(
             .section(.class("section_wrapper"),
                 .article(.class("span12 mailing_list_signup"),
-                     .h5("Join our Community:"),
-                     .p(.class("social-link"),
-                         .a(
+                    .h5("Join Bay Area Organized Play:"),
+                    .p(.class("social-link"),
+                        .a(
                             .href("https://discord.gg/Qj753NEXJm"),
                             .text("Discord")
-                         ) // a
-                     ) // p
+                        ) // a
+                    ) // p
                 ),
                 .article(.class("span12 mailing_list_signup"),
-                    .h5("@ 2023 Bay Area Pathfinder Organized Play"),
                     .p(
                         .class("footer-legal"),
                         .text("This promotional notice uses trademarks and/or copyrights owned by Paizo Publishing, LLC, which are under Paizo's community use policy. We are expressly prohibited from charging you to use or access this content. This promotional notice is not published, endorsed, or specifically approved by Paizo Publishing. For more information about Paizo's Community Use Policy, please visit paizo.com/ paizo/ about/ communityuse. For more information about Paizo Publishing and Paizo Products, please visit paizo.com.")
